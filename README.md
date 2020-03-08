@@ -10,4 +10,4 @@ A Java program that allows users to draw bubbles that will bounce around the win
 
 ## Varying sizes
 
-![small and big bubbles](./screenshots/bubbleSizes.png)
+![small and big bubbles](./screenshots/bubblesizes.png)
